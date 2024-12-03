@@ -562,6 +562,7 @@ MonoBehaviour:
     - line: '|   openGLRequireES32: 0'
     - line: '|   m_TemplateCustomTags:'
     - line: '|     PRODUCT_DESCRIPTION: Unity 3D Portfolio, Martin Pamuki'
+    - line: '|     TOTAL_MEMORY: '
     - line: '|   mobileMTRendering:'
     - line: '|     Android: 1'
     - line: '|     iPhone: 1'
