@@ -498,9 +498,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a186b81a2b6e6042acd5bef0e2b2bc8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  xRotate: 0.3
-  yRotate: 0.3
-  zRotate: 0.6
+  xRotate: 50
+  yRotate: 40
+  zRotate: 60
 --- !u!1001 &896531691
 PrefabInstance:
   m_ObjectHideFlags: 0
