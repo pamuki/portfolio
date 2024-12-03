@@ -20,7 +20,7 @@ public class Rotator : MonoBehaviour
 
     void UnscaledRotate(Transform trans, float x,float y,float z)
     {
-        Vector3 rotatingVector = new Vector3(x * Time.unscaledDeltaTime, y * Time.unscaledDeltaTime, z * Time.unscaledDeltaTime);
+        Vector3 rotatingVector = new Vector3(x * Time.deltaTime, y * Time.deltaTime, z * Time.deltaTime);
 
         trans.Rotate(rotatingVector);
     }
